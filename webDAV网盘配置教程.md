@@ -14,7 +14,7 @@
 
 坚果云网址：https://www.jianguoyun.com
 
-![timg](C:\Users\chris\Downloads\timg.jpg)
+![timg](https://github.com/chrissen0814/CardResources/blob/master/app/src/main/res/drawable/timg.jpg)
 
 #配置教程
 
@@ -24,11 +24,11 @@
 
   网页版的用户进入主页面后，点击右上角的用户名，出现下拉选择框时点击账户信息。
 
-  ![Snipaste_2019-07-25_09-44-43](C:\Users\chris\Downloads\Snipaste_2019-07-25_09-44-43.png)
+  ![Snipaste_2019-07-25_09-44-43](https://github.com/chrissen0814/CardResources/blob/master/app/src/main/res/drawable/Snipaste_2019-07-25_09-44-43.png)
 
   账户信息页面中，点击安全选项，你会看到第三方应用管理。
 
-  ![Snipaste_2019-07-25_09-46-57](C:\Users\chris\Downloads\Snipaste_2019-07-25_09-46-57.png)
+  ![Snipaste_2019-07-25_09-46-57](https://github.com/chrissen0814/CardResources/blob/master/app/src/main/res/drawable/Snipaste_2019-07-25_09-46-57.png)
 
   截图上显示的服务器地址与账号就是我们要填入到《麻雀笔记》网盘配置信息中的服务器地址与账号信息。
 
@@ -44,15 +44,15 @@
 
   首先，打开侧边栏，点击设置按钮。
 
-  ![Screenshot_20190725-092949](C:\Users\chris\Desktop\Screenshot_20190725-092949.png)
+  ![Screenshot_20190725-092949](https://github.com/chrissen0814/CardResources/blob/master/app/src/main/res/drawable/Screenshot_20190725-092949.png)
 
   进入设置页面，你会看到第三方应用管理操作，点击进入。
 
-  ![Screenshot_20190725-093001](C:\Users\chris\Desktop\Screenshot_20190725-093001.png)
+  ![Screenshot_20190725-093001](https://github.com/chrissen0814/CardResources/blob/master/app/src/main/res/drawable/Screenshot_20190725-093001.png)
 
   进入第三方应用管理后，你可以看到相关的配置信息。
 
-  ![Snipaste_2019-07-25_09-58-46](C:\Users\chris\Downloads\Snipaste_2019-07-25_09-58-46.png)
+  ![Snipaste_2019-07-25_09-58-46](https://github.com/chrissen0814/CardResources/blob/master/app/src/main/res/drawable/Snipaste_2019-07-25_09-58-46.png)
 
   把服务器地址、账号以及密码（密码可以选择使用坚果云账号的密码，也可以添加应用来创建特定的密码）填入《麻雀笔记》网盘配置中对应信息即可。
 
